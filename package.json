@@ -35,7 +35,6 @@
     "dev": "vite",
     "build": "tsc && vite build",
     "format": "prettier --write \"src/**/*.{json,js,jsx,ts,tsx,css,scss}\"",
-    "prebuild": "tsc --noEmit"
     "setup": "npm i && npm run dev",
     "start": "vite --port 3000",
     "test": "vitest run"
@@ -43,5 +42,6 @@
   "type": "module",
   "version": "0.0.0"
 }
+
 
 
