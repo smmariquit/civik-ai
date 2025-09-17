@@ -1,0 +1,5 @@
+{
+  "name": "Boilerplate React App",
+  "description": "A foundational React application setup with TypeScript and Tailwind CSS, demonstrating basic component structure and styling.",
+  "requestFramePermissions": []
+}
