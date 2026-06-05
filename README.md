@@ -22,3 +22,12 @@ View your app in AI Studio: https://ai.studio/apps/drive/1-7TwPF2Ug4gec4oEXiDb84
 
 ---
 *If this project helped you out, consider [treating me to a coffee](https://kape.stimmie.dev) ☕*
+
+## 📊 Current State of the Code
+- **Tech Stack:** React, Node.js/NPM
+- **Repository Size:** 57 tracked files
+- **Latest Update:** `72a2ae9 chore: add stale issue and PR validators`
+
+
+---
+*☕ If you found this project useful, you can support my work at [kape.stimmie.dev](https://kape.stimmie.dev)!*
