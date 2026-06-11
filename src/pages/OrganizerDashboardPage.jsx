@@ -1,3 +1,5 @@
+// src/pages/OrganizerDashboardPage.jsx
+
 
 
 function OrganizerDashboardPage() {

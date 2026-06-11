@@ -1,3 +1,5 @@
+// src/components/ProfileCard.jsx
+
 function ProfileCard({ profile }) {
   return (
     <div className="profile-card">

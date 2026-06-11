@@ -1,3 +1,5 @@
+// src/components/ShowMoreButton.jsx
+
 import React from "react";
 import PropTypes from "prop-types";
 import styles from "./ShowMoreButton.module.css";

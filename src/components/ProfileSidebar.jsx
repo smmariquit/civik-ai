@@ -1,3 +1,5 @@
+// src/components/ProfileSidebar.jsx
+
 import React from "react";
 import styles from "./ProfileSidebar.module.css";
 

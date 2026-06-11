@@ -1,3 +1,5 @@
+// src/components/CalendarWidget.jsx
+
 function CalendarWidget() {
   return (
     <div className="calendar-widget">

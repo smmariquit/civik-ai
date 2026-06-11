@@ -1,3 +1,5 @@
+// src/components/BadgeCard.jsx
+
 function BadgeCard({ badge }) {
   return (
     <div className="badge-card">

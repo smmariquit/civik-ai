@@ -1,3 +1,5 @@
+// src/pages/DashboardPage.jsx
+
 import React, { useState } from "react";
 import styles from "./DashboardPage.module.css";
 import Sidebar from "../components/Sidebar";
