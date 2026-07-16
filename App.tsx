@@ -43,14 +43,14 @@ const App: React.FC = () => {
 
 
   return (
-    <div className="min-h-screen bg-gradient-to-br from-gray-900 via-purple-900 to-gray-900 flex flex-col items-center justify-center p-6 selection:bg-indigo-500 selection:text-white">
+    <div className="min-h-screen bg-stone-950 flex flex-col items-center justify-center p-6 selection:bg-amber-600 selection:text-white">
       <header className="mb-12 text-center">
         <div className="flex items-center justify-center mb-4">
-          <SparkleIcon className="w-16 h-16 text-indigo-400 mr-4" />
-          <h1 className="text-5xl font-extrabold tracking-tight text-transparent bg-clip-text bg-gradient-to-r from-purple-400 via-pink-500 to-red-500">
+          <SparkleIcon className="w-16 h-16 text-amber-500 mr-4" />
+          <h1 className="text-5xl font-extrabold tracking-tight text-amber-100">
             React Boilerplate
           </h1>
-          <SparkleIcon className="w-16 h-16 text-indigo-400 ml-4" />
+          <SparkleIcon className="w-16 h-16 text-amber-500 ml-4" />
         </div>
         <p className="text-xl text-gray-300 mt-2">
           A starting point for your amazing React applications.
